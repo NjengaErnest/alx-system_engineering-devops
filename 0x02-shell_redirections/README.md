@@ -6,3 +6,4 @@ last lines  script
 prefer first lines script
 line three script
 echo best school script
+save current state directory script
