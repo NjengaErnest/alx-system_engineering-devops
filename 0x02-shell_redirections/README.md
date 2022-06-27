@@ -9,3 +9,4 @@ echo best school script
 save current state directory script
 last line dup9 script
 no more jave script
+dont just count script
