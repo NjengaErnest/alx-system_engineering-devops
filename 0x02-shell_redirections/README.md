@@ -20,3 +20,4 @@ letters only script
 a to z script
 without c living in hiago script
 esrever script
+dj cut killer script
