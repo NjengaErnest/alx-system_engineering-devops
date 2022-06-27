@@ -11,3 +11,4 @@ last line dup9 script
 no more jave script
 dont just count script
 whats new script
+unique and perfect script
