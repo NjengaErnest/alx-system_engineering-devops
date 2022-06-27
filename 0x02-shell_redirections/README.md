@@ -7,3 +7,4 @@ prefer first lines script
 line three script
 echo best school script
 save current state directory script
+last line dup9 script
