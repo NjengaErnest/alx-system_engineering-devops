@@ -12,3 +12,4 @@ no more jave script
 dont just count script
 whats new script
 unique and perfect script
+must be in file script
