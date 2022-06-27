@@ -5,3 +5,4 @@ what about 2 script
 last lines  script
 prefer first lines script
 line three script
+echo best school script
