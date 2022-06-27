@@ -17,3 +17,4 @@ cout that word script
 what next script
 i hate bins script
 letters only script
+a to z script
