@@ -14,3 +14,4 @@ whats new script
 unique and perfect script
 must be in file script
 cout that word script
+what next script
