@@ -7,3 +7,4 @@ local variable script
 best school script
 global school export
 knowledge human power script
+divide and rule script
