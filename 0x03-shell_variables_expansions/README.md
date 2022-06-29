@@ -14,3 +14,4 @@ combination script
 floats script
 decimals script
 strong encryption
+eggs and odd number script
