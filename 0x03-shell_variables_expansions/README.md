@@ -13,3 +13,4 @@ understanding binary script
 combination script
 floats script
 decimals script
+strong encryption
