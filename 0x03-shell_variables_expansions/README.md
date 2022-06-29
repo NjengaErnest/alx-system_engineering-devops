@@ -5,3 +5,4 @@ beautiful pasths script
 global variables script
 local variable script
 best school script
+global school export
