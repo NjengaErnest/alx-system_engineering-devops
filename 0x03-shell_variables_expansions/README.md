@@ -12,3 +12,4 @@ life death creation death script
 understanding binary script
 combination script
 floats script
+decimals script
