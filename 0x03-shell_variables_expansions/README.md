@@ -9,3 +9,4 @@ global school export
 knowledge human power script
 divide and rule script
 life death creation death script
+understanding binary script
