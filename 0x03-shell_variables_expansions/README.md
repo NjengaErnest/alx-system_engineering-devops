@@ -4,3 +4,4 @@ path to success script
 beautiful pasths script
 global variables script
 local variable script
+best school script
